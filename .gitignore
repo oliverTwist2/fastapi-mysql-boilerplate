@@ -1,0 +1,43 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest cache
+.pytest_cache/
+
+# Alembic migration cache
+alembic/versions/*.pyc
+
+# IDE-specific files (optional, depending on your IDE)
+.vscode/
+.idea/
+
+# Logs (if applicable)
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Test files
+tests/
+pytest.ini
