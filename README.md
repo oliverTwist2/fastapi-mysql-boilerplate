@@ -114,7 +114,3 @@ If you encounter any issues or have questions:
 ## Author
 
 **Oliver Ikegah** - [GitHub Profile](https://github.com/oliverTwist2)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
